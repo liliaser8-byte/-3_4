@@ -7,3 +7,5 @@
 <img width="594" height="44" alt="image" src="https://github.com/user-attachments/assets/a35ceb9e-b362-4508-9b29-cb8b7e430760" />
 <img width="668" height="891" alt="image" src="https://github.com/user-attachments/assets/e1482909-989c-4588-8f77-cf7c1b33de6c" />
 
+Ця програма на C++ обчислює значення функції на проміжку від a = -4 до b = 2 з кроком, який залежить від введеного користувачем числа k.
+
